@@ -13,20 +13,24 @@
 
 ## Installation
 
-`npm install --save veemoji`
+```
+npm install --save veemoji
+```
 
 ## Components
 Load the library in your main.js file.
 
-`import Vue from 'vue'`
-<br/>
-`import veemoji from 'veemoji'`
-<br/>
-<br/>
-`Vue.use(veemoji)`
+```
+import Vue from 'vue'
+import veemoji from 'veemoji'
+
+Vue.use(veemoji)
+```
 
 ## How to use
 
-`<veemoji emoji="yum"></veemoji>`
+```
+<veemoji emoji="yum"></veemoji>
 
-`😋`
+😋
+```
