@@ -1,6 +1,6 @@
 {
   "name": "veemoji",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A pure simple emoji component for vuejs 2",
   "license": "MIT",
   "keywords": [
