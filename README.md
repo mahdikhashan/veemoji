@@ -14,7 +14,7 @@
 ## Installation
 
 ```
-npm install --save veemoji
+npm install --save @mahdikhashan/veemoji
 ```
 
 ## Components
