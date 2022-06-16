@@ -6,7 +6,9 @@
   "keywords": [
     "emoji",
     "veeemoji",
-    "vue-emoji"
+    "vue-emoji",
+    "vue",
+    "vue2"
   ],
   "main": "dist/veemoji.ssr.js",
   "browser": "dist/veemoji.esm.js",
